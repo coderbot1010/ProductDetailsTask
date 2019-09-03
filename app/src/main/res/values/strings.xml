@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProductDetailsTask</string>
+    <string name="error">Error! .. App will close.</string>
+    <string name="success">Success! .. App will close.</string>
+    <string name="order">Order</string>
+    <string name="amount">Amount</string>
+    <string name="tax">Tax</string>
+    <string name="total">Total Amount</string>
+    <string name="tax_value">%1$s%%</string>
+    <string name="amount_value">%1$s SAR</string>
+</resources>

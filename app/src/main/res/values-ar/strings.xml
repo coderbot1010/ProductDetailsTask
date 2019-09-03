@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProductDetailsTask</string>
+    <string name="error">خطأ! .. سيتم اغلاق التطبيق.</string>
+    <string name="success">تم بنجاح! .. سيتم اغلاق التطبيق.</string>
+    <string name="order">طلب</string>
+    <string name="amount">الاجمالي</string>
+    <string name="tax">الضريبة</string>
+    <string name="total">المجموع النهائي</string>
+    <string name="tax_value">%%%1$s</string>
+    <string name="amount_value">%1$s ريال</string>
+</resources>
